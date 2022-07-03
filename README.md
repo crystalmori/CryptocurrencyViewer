@@ -2,8 +2,11 @@
 Using the MVC pattern submit a Cryptocurrency viewer. UCLA Java II
 Using the MVC pattern submit a Cryptocurrency viewer.
 The source of the data should be using the endpoints under HistoMinute, HistoHour and HistoDay from cryptocompare
+
 Minute: https://min-api.cryptocompare.com/data/histominute?aggregate=1&e=CCCAGG&extraParams=CryptoCompare&fsym=BTC&limit=10&tryConversion=false&tsym=USD
+
 Hour: https://min-api.cryptocompare.com/data/histohour?aggregate=1&e=CCCAGG&extraParams=CryptoCompare&fsym=BTC&limit=10&tryConversion=false&tsym=USD
+
 Day: https://min-api.cryptocompare.com/data/histoday?aggregate=1&e=CCCAGG&extraParams=CryptoCompare&fsym=BTC&limit=10&tryConversion=false&tsym=USD
  
 The UI should look like the following (minus the purple lines):
